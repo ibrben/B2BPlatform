@@ -1,0 +1,24 @@
+version: "3"
+
+services:
+  postgres:
+    image: postgres:15
+    environment:
+      POSTGRES_DB: saas_platform
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    volumes:
+      - ./init.sql:/docker-entrypoint-initdb.d/db.sql
+    ports:
+      - "5432:5432"
+    
+  company_onboarding_api:
+    build:
+      context: .
+      dockerfile: CompanyOnboarding.API/Dockerfile
+    environment:
+      ConnectionStrings__DefaultConnection: Host=postgres;Database=saas_platform;Username=postgres;Password=postgres
+    ports:
+      - "5299:8080"
+    depends_on:
+      - postgres

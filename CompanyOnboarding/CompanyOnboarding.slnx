@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CompanyOnboarding.API/CompanyOnboarding.API.csproj" />
+  <Project Path="CompanyOnboarding.Application/CompanyOnboarding.Application.csproj" />
+  <Project Path="CompanyOnboarding.Domain/CompanyOnboarding.Domain.csproj" />
+  <Project Path="CompanyOnboarding.Infrastructure/CompanyOnboarding.Infrastructure.csproj" />
+</Solution>

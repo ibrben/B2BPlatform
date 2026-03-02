@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "l0zTeKPCq4U=",
+  "success": true,
+  "projectFilePath": "/Users/ibr/Desktop/projects/B2BPlatform/CompanyOnboarding/CompanyOnboarding.Application/CompanyOnboarding.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/ibr/.nuget/packages/bcrypt.net-next/4.1.0/bcrypt.net-next.4.1.0.nupkg.sha512",
+    "/Users/ibr/.nuget/packages/microsoft.extensions.dependencyinjection/10.0.3/microsoft.extensions.dependencyinjection.10.0.3.nupkg.sha512",
+    "/Users/ibr/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.3/microsoft.extensions.dependencyinjection.abstractions.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

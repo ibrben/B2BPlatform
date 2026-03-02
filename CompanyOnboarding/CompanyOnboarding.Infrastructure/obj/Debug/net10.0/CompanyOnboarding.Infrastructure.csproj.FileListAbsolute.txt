@@ -1,0 +1,15 @@
+/Users/ibr/Desktop/projects/B2BPlatform/CompanyOnboarding/CompanyOnboarding.Infrastructure/bin/Debug/net10.0/CompanyOnboarding.Infrastructure.deps.json
+/Users/ibr/Desktop/projects/B2BPlatform/CompanyOnboarding/CompanyOnboarding.Infrastructure/bin/Debug/net10.0/CompanyOnboarding.Infrastructure.dll
+/Users/ibr/Desktop/projects/B2BPlatform/CompanyOnboarding/CompanyOnboarding.Infrastructure/bin/Debug/net10.0/CompanyOnboarding.Infrastructure.pdb
+/Users/ibr/Desktop/projects/B2BPlatform/CompanyOnboarding/CompanyOnboarding.Infrastructure/bin/Debug/net10.0/CompanyOnboarding.Domain.dll
+/Users/ibr/Desktop/projects/B2BPlatform/CompanyOnboarding/CompanyOnboarding.Infrastructure/bin/Debug/net10.0/CompanyOnboarding.Domain.pdb
+/Users/ibr/Desktop/projects/B2BPlatform/CompanyOnboarding/CompanyOnboarding.Infrastructure/obj/Debug/net10.0/CompanyOnboarding.Infrastructure.csproj.AssemblyReference.cache
+/Users/ibr/Desktop/projects/B2BPlatform/CompanyOnboarding/CompanyOnboarding.Infrastructure/obj/Debug/net10.0/CompanyOnboarding.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibr/Desktop/projects/B2BPlatform/CompanyOnboarding/CompanyOnboarding.Infrastructure/obj/Debug/net10.0/CompanyOnboarding.Infrastructure.AssemblyInfoInputs.cache
+/Users/ibr/Desktop/projects/B2BPlatform/CompanyOnboarding/CompanyOnboarding.Infrastructure/obj/Debug/net10.0/CompanyOnboarding.Infrastructure.AssemblyInfo.cs
+/Users/ibr/Desktop/projects/B2BPlatform/CompanyOnboarding/CompanyOnboarding.Infrastructure/obj/Debug/net10.0/CompanyOnboarding.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/ibr/Desktop/projects/B2BPlatform/CompanyOnboarding/CompanyOnboarding.Infrastructure/obj/Debug/net10.0/CompanyO.578E2742.Up2Date
+/Users/ibr/Desktop/projects/B2BPlatform/CompanyOnboarding/CompanyOnboarding.Infrastructure/obj/Debug/net10.0/CompanyOnboarding.Infrastructure.dll
+/Users/ibr/Desktop/projects/B2BPlatform/CompanyOnboarding/CompanyOnboarding.Infrastructure/obj/Debug/net10.0/refint/CompanyOnboarding.Infrastructure.dll
+/Users/ibr/Desktop/projects/B2BPlatform/CompanyOnboarding/CompanyOnboarding.Infrastructure/obj/Debug/net10.0/CompanyOnboarding.Infrastructure.pdb
+/Users/ibr/Desktop/projects/B2BPlatform/CompanyOnboarding/CompanyOnboarding.Infrastructure/obj/Debug/net10.0/ref/CompanyOnboarding.Infrastructure.dll
