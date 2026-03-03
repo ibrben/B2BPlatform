@@ -23,7 +23,7 @@ namespace CompanyOnboarding.API.Controllers
         /// <param name="request">The onboard company request</param>
         /// <returns>The result of the onboard company operation</returns>
         [HttpPost("Onboard")]
-        [RequireRole(RoleId.Admin)]
+        [RequireRole(RoleId.SuperUser,RoleId.Admin)]
         public async Task<IActionResult> OnboardCompany([FromBody] CompanyOnboardingRequest request)
         {
             if (!ModelState.IsValid)
@@ -49,7 +49,7 @@ namespace CompanyOnboarding.API.Controllers
             //TODO: update company logic
             return Ok();
         }
-        
+
         /// <summary>
         /// To remove a company
         /// </summary>
@@ -60,6 +60,18 @@ namespace CompanyOnboarding.API.Controllers
         {
             //TODO: remove company logic
             return Ok();
+        }
+
+        /// <summary>
+        /// To get a list of all companies
+        /// </summary>
+        /// <returns>A list of all companies</returns>
+        [HttpGet]
+        [RequireRole(RoleId.SuperUser,RoleId.Admin)]
+        public async Task<IActionResult> GetCompanies()
+        {
+            var companies = await _onboardCompanyService.GetCompaniesAsync();
+            return Ok(companies);
         }
     }
     

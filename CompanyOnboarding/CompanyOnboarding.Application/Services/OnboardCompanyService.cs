@@ -29,6 +29,17 @@ public class OnboardCompanyService : IOnboardCompanyService
         _businessUnitRepository = businessUnitRepository;
         _staffRepository = staffRepository;
     }
+
+        /// <summary>
+        /// Get a list of all companies
+        /// </summary>
+        /// <returns>A list of all companies</returns>
+
+    public async Task<List<Company>> GetCompaniesAsync()
+    {
+        return (await _companyRepository.GetCompaniesAsync()).ToList();
+    }
+
     /// <summary>
     /// To onboard a company and if onboard successfully then create a default business unit
     /// </summary>

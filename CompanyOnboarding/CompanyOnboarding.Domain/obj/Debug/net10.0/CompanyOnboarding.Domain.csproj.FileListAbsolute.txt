@@ -9,3 +9,4 @@
 /Users/ibr/Desktop/projects/B2BPlatform/CompanyOnboarding/CompanyOnboarding.Domain/obj/Debug/net10.0/refint/CompanyOnboarding.Domain.dll
 /Users/ibr/Desktop/projects/B2BPlatform/CompanyOnboarding/CompanyOnboarding.Domain/obj/Debug/net10.0/CompanyOnboarding.Domain.pdb
 /Users/ibr/Desktop/projects/B2BPlatform/CompanyOnboarding/CompanyOnboarding.Domain/obj/Debug/net10.0/ref/CompanyOnboarding.Domain.dll
+/Users/ibr/Desktop/projects/B2BPlatform/CompanyOnboarding/CompanyOnboarding.Domain/obj/Debug/net10.0/CompanyOnboarding.Domain.sourcelink.json

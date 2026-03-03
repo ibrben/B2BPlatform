@@ -51,3 +51,4 @@
 /Users/ibr/Desktop/projects/B2BPlatform/CompanyOnboarding/CompanyOnboarding.API/bin/Debug/net10.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 /Users/ibr/Desktop/projects/B2BPlatform/CompanyOnboarding/CompanyOnboarding.API/bin/Debug/net10.0/Microsoft.IdentityModel.Tokens.dll
 /Users/ibr/Desktop/projects/B2BPlatform/CompanyOnboarding/CompanyOnboarding.API/bin/Debug/net10.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/ibr/Desktop/projects/B2BPlatform/CompanyOnboarding/CompanyOnboarding.API/obj/Debug/net10.0/CompanyOnboarding.API.sourcelink.json

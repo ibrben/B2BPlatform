@@ -13,3 +13,4 @@
 /Users/ibr/Desktop/projects/B2BPlatform/CompanyOnboarding/CompanyOnboarding.Infrastructure/obj/Debug/net10.0/refint/CompanyOnboarding.Infrastructure.dll
 /Users/ibr/Desktop/projects/B2BPlatform/CompanyOnboarding/CompanyOnboarding.Infrastructure/obj/Debug/net10.0/CompanyOnboarding.Infrastructure.pdb
 /Users/ibr/Desktop/projects/B2BPlatform/CompanyOnboarding/CompanyOnboarding.Infrastructure/obj/Debug/net10.0/ref/CompanyOnboarding.Infrastructure.dll
+/Users/ibr/Desktop/projects/B2BPlatform/CompanyOnboarding/CompanyOnboarding.Infrastructure/obj/Debug/net10.0/CompanyOnboarding.Infrastructure.sourcelink.json

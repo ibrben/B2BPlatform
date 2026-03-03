@@ -71,9 +71,9 @@ namespace CompanyOnboarding.Infrastructure.Repositories
         /// Get all companies
         /// </summary>
         /// <returns>A list of all companies</returns>
-        public Task<IEnumerable<Company>> GetCompaniesAsync()
+        public async Task<IEnumerable<Company>> GetCompaniesAsync()
         {
-            throw new NotImplementedException();
+            return await _context.companies.ToListAsync();
         }
     }
 }
