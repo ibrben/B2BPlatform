@@ -51,4 +51,4 @@ CREATE POLICY tenant_isolation
 ON staff_global_profiles
 USING (company_id = current_setting('app.company_id')::uuid);
 
-INSERT INTO staff_bu_profiles (id, staff_global_id, business_unit_id, email, role_id, password_hash) VALUES ( gen_random_uuid(), gen_random_uuid(), gen_random_uuid(),'admin@example.com',1,'$2a$11$K2qTQgiv20fj8LB45BZhXuNAhGr6V/FcHOGizG4nutXuk0KUPKbIS');
+INSERT INTO staff_bu_profiles (id, staff_global_id, business_unit_id, email, role_id, password_hash) VALUES ( gen_random_uuid(), gen_random_uuid(), gen_random_uuid(),'aura@assignment.com',0,'$2a$11$K2qTQgiv20fj8LB45BZhXuNAhGr6V/FcHOGizG4nutXuk0KUPKbIS');
