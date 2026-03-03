@@ -49,7 +49,7 @@ dotnet build
 dotnet run
 ```
 
-## API Endpoints ##
+# API Endpoints #
 Base Route: 
 ```
 /api/company
@@ -57,7 +57,7 @@ Base Route:
 
 ## Onboard company ##
 POST: ```/api/company/onboard```
-# Request Body #
+### Request Body ###
 ```
 {
   "name": "Acme Corporation",
@@ -68,11 +68,34 @@ POST: ```/api/company/onboard```
   "ownerEmail": "john.doe@acme.com"
 }
 ```
-# Response #
+### Response ###
 ```
 {
-  "companyId": "uuid",
-  "defaultBusinessUnitId": "uuid",
-  "ownerId": "uuid"
+    "success": true,
+    "message": null,
+    "credential": {
+        "username": "john.doe@acme.com",
+        "password": "N8ylIGL"
+    }
 }
+```
+
+## Get all companies ##
+GET: ```/api/company```
+### Response ###
+```
+[
+    {
+        "id": "019caf67-34ab-796c-8b96-42d3b40a0573",
+        "name": "IBR_Company2",
+        "phone": "Bangkok, Thailand",
+        "address": "0919199218"
+    },
+    {
+        "id": "019cafba-fc48-7c53-8fb4-281d2e490024",
+        "name": "IBR_Company2",
+        "phone": "Bangkok, Thailand",
+        "address": "0919199218"
+    }
+]
 ```
